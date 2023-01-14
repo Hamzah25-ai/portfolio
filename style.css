@@ -4,14 +4,26 @@ ul{
 .cards{
   padding: 1rem;
 }
+body{
+  flex-wrap: wrap;
+}
 .mmm{
   margin-top: 4rem;
+}
+.top > h1{
+  color: black;
+}
+.rain > h1{
+  color: black;
 }
 .tap{
   margin-top: 3rem;
 }
 h2 > ul{
   align-items: center;
+}
+ul{
+  cursor: pointer;
 }
 .top{
   margin-top: 4rem;
@@ -21,4 +33,17 @@ h2 > ul{
 }
 .metroo{
   margin-top: 4rem;
+  padding: 1.8rem;
+}
+.wras{
+  flex-wrap: wrap;
+}
+.metroo{
+  font-size: 43px;
+  justify-content: space-between;
+}
+.ick{
+  position: sticky;
+  top: 0;
+  z-index: 1000;
 }
