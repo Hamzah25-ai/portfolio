@@ -31,6 +31,9 @@ ul{
 .rain{
   margin-top: 4rem;
 }
+.dibu{
+  padding: 1.2rem;
+}
 .metroo{
   margin-top: 4rem;
   padding: 1.8rem;
@@ -40,10 +43,12 @@ ul{
 }
 .metroo{
   font-size: 43px;
-  justify-content: space-between;
+  justify-content: center;
+  cursor: pointer;
 }
 .ick{
   position: sticky;
+  align-items: center;
   top: 0;
   z-index: 1000;
 }

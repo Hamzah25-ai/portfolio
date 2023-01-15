@@ -4,3 +4,6 @@ got to twitter on browser and copy the link and put in the a tag
 complete about me
 make it interactive
 metroooooooooooooooooooooooooooooooooooo
+padding in navvbar
+put cursor pointer
+three colours max
