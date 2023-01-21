@@ -31,12 +31,18 @@ ul{
 .rain{
   margin-top: 4rem;
 }
-.dibu{
-  padding: 1.2rem;
-}
 .metroo{
   margin-top: 4rem;
   padding: 1.8rem;
+}
+.bye{
+  margin-right: 4rem;
+}
+.perc{
+  margin-right: 4rem;
+}
+.musik{
+  margin-right: 4rem;
 }
 .wras{
   flex-wrap: wrap;
@@ -48,7 +54,8 @@ ul{
 }
 .ick{
   position: sticky;
-  align-items: center;
+  text-align: center;
+  padding: 5rem;
   top: 0;
   z-index: 1000;
 }
