@@ -59,6 +59,14 @@ ul{
   top: 0;
   z-index: 1000;
 }
+@media (max-width: 1200px) {
+  .berouw{
+    display: none;
+  }
+  .kira{
+    display: block;
+  }
+}
 @media (max-width :500px ) {
   .knight{
     display: none;
